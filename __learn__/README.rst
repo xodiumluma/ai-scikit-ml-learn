@@ -7,4 +7,6 @@
 
 .. |CircleCI| image:: https://circleci.com/gh/scikit-learn/scikit-learn/tree/main.svg?style=shield
    :target: https://circleci.com/gh/scikit-learn/scikit-learn
-   
+
+.. |CirrusCI| image:: https://img.shields.io/cirrus/github/scikit-learn/scikit-learn/main?label=Cirrus%20CI
+   :target: https://cirrus-ci.com/github/scikit-learn/scikit-learn/main
